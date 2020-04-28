@@ -1,6 +1,6 @@
 {
   "name": "@cjheppell/github-actions-playground",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "https://github.com/cjheppell/github-actions-playground.git",
   "author": "Chris Heppell <chris.john.heppell@gmail.com>",
