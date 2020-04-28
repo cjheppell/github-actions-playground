@@ -1,0 +1,12 @@
+name: Hello world!
+
+on: push
+
+jobs:
+  echo_hello:
+    name: Echo "Hello, world!" to the github actions log output
+    runs-on: ubuntu-latest
+    steps:
+    - name: Echo "hello" using script
+      run: |
+        echo "Hello, world!"
