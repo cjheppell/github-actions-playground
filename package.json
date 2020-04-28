@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cjheppell/github-actions-playground.git",
+  "author": "Chris Heppell <chris.john.heppell@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "is-promise": "^4.0.0"
+  }
+}
